@@ -16,13 +16,13 @@
 }
 
 .text-primary {
-  color: var(--bg-dark-blue) !important;
+  color: var(--dark-blue) !important;
 }
 
 .text-info {
-  color: var(--bg-light-blue) !important;
+  color: var(--light-blue) !important;
 }
 
 .bg-info {
-  background-color: var(--bg-light-blue);
+  background-color: var(--light-blue);
 }
